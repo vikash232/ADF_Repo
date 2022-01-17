@@ -3,7 +3,7 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"factoryName": {
-			"value": "dev-hdfc12"
+			"value": "uat-hdfc1"
 		}
 	}
 }
