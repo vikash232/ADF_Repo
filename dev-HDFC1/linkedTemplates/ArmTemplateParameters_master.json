@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "dev-HDFC1"
+		},
+		"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
+			"value": "/subscriptions/3d175f4c-25f4-4d07-9bab-4ea3d300ac58/resourcegroups/HDFC-rg/providers/Microsoft.DataFactory/factories/Shared-hdfc1/integrationruntimes/integrationRuntime1"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
