@@ -1,9 +1,0 @@
-{
-	"name": "dev-hdfc12",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "80011bf7-1acb-4517-ae95-c5e495ffde79",
-		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
-	}
-}
