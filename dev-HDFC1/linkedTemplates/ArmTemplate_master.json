@@ -7,6 +7,10 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "dev-HDFC1"
 		},
+		"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
+			"type": "string",
+			"defaultValue": "/subscriptions/02ea7b42-0c7d-4829-bf54-d13b22886620/resourcegroups/HDFC-rg/providers/Microsoft.DataFactory/factories/shared-HDFC2/integrationruntimes/integrationRuntime1"
+		},
 		"containerUri": {
 			"type": "string",
 			"metadata": "URI to storage account containing linked ARM templates"
@@ -33,6 +37,9 @@
 				"parameters": {
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
+					},
+					"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
+						"value": "[parameters('integrationRuntime1_properties_typeProperties_linkedInfo_resourceId')]"
 					}
 				}
 			},
