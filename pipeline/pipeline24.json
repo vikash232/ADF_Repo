@@ -1,5 +1,5 @@
 {
-	"name": "vkpip",
+	"name": "pipeline24",
 	"properties": {
 		"activities": [
 			{
@@ -13,7 +13,7 @@
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2022-01-24T12:12:21Z"
+		"lastPublishTime": "2022-01-22T12:12:32Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }

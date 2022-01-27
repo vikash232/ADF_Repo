@@ -1,5 +1,5 @@
 {
-	"name": "vkpip",
+	"name": "djpip",
 	"properties": {
 		"activities": [
 			{
@@ -13,7 +13,7 @@
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2022-01-24T12:12:21Z"
+		"lastPublishTime": "2022-01-27T05:45:47Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
