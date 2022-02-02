@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "dev-HDFC1"
 		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
 		"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
 			"value": "/subscriptions/02ea7b42-0c7d-4829-bf54-d13b22886620/resourcegroups/HDFC-rg/providers/Microsoft.DataFactory/factories/shared-HDFC2/integrationruntimes/integrationRuntime1"
 		},
