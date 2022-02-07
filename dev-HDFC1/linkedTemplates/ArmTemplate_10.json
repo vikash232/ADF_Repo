@@ -13,6 +13,81 @@
 	},
 	"resources": [
 		{
+			"name": "[concat(parameters('factoryName'), '/vkaj_copy274')]",
+			"type": "Microsoft.DataFactory/factories/pipelines",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"activities": [
+					{
+						"name": "Wait1",
+						"type": "Wait",
+						"dependsOn": [],
+						"userProperties": [],
+						"typeProperties": {
+							"waitTimeInSeconds": 1
+						}
+					}
+				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
+				"annotations": [],
+				"lastPublishTime": "2022-02-02T11:42:53Z"
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/vkaj_copy275')]",
+			"type": "Microsoft.DataFactory/factories/pipelines",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"activities": [
+					{
+						"name": "Wait1",
+						"type": "Wait",
+						"dependsOn": [],
+						"userProperties": [],
+						"typeProperties": {
+							"waitTimeInSeconds": 1
+						}
+					}
+				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
+				"annotations": [],
+				"lastPublishTime": "2022-02-02T11:42:59Z"
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/vkaj_copy276')]",
+			"type": "Microsoft.DataFactory/factories/pipelines",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"activities": [
+					{
+						"name": "Wait1",
+						"type": "Wait",
+						"dependsOn": [],
+						"userProperties": [],
+						"typeProperties": {
+							"waitTimeInSeconds": 1
+						}
+					}
+				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
+				"annotations": [],
+				"lastPublishTime": "2022-02-02T11:43:04Z"
+			},
+			"dependsOn": []
+		},
+		{
 			"name": "[concat(parameters('factoryName'), '/vkaj_copy277')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
@@ -33,7 +108,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:58Z"
 			},
 			"dependsOn": []
 		},
@@ -58,7 +133,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:57Z"
 			},
 			"dependsOn": []
 		},
@@ -83,7 +158,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:54Z"
 			},
 			"dependsOn": []
 		},
@@ -108,7 +183,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T10:12:40Z"
 			},
 			"dependsOn": []
 		},
@@ -133,7 +208,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:56Z"
 			},
 			"dependsOn": []
 		},
@@ -158,7 +233,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:58Z"
 			},
 			"dependsOn": []
 		},
@@ -183,7 +258,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:43:12Z"
 			},
 			"dependsOn": []
 		},
@@ -208,7 +283,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:56Z"
 			},
 			"dependsOn": []
 		},
@@ -233,7 +308,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:43:04Z"
 			},
 			"dependsOn": []
 		},
@@ -258,7 +333,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:52Z"
 			},
 			"dependsOn": []
 		},
@@ -283,7 +358,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:57Z"
 			},
 			"dependsOn": []
 		},
@@ -308,7 +383,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:57Z"
 			},
 			"dependsOn": []
 		},
@@ -333,7 +408,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:57Z"
 			},
 			"dependsOn": []
 		},
@@ -358,7 +433,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:59Z"
 			},
 			"dependsOn": []
 		},
@@ -383,7 +458,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T10:12:37Z"
 			},
 			"dependsOn": []
 		},
@@ -408,7 +483,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:56Z"
 			},
 			"dependsOn": []
 		},
@@ -433,82 +508,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
-			},
-			"dependsOn": []
-		},
-		{
-			"name": "[concat(parameters('factoryName'), '/vkaj_copy292')]",
-			"type": "Microsoft.DataFactory/factories/pipelines",
-			"apiVersion": "2018-06-01",
-			"properties": {
-				"activities": [
-					{
-						"name": "Wait1",
-						"type": "Wait",
-						"dependsOn": [],
-						"userProperties": [],
-						"typeProperties": {
-							"waitTimeInSeconds": 1
-						}
-					}
-				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
-				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
-			},
-			"dependsOn": []
-		},
-		{
-			"name": "[concat(parameters('factoryName'), '/vkaj_copy293')]",
-			"type": "Microsoft.DataFactory/factories/pipelines",
-			"apiVersion": "2018-06-01",
-			"properties": {
-				"activities": [
-					{
-						"name": "Wait1",
-						"type": "Wait",
-						"dependsOn": [],
-						"userProperties": [],
-						"typeProperties": {
-							"waitTimeInSeconds": 1
-						}
-					}
-				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
-				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
-			},
-			"dependsOn": []
-		},
-		{
-			"name": "[concat(parameters('factoryName'), '/vkaj_copy294')]",
-			"type": "Microsoft.DataFactory/factories/pipelines",
-			"apiVersion": "2018-06-01",
-			"properties": {
-				"activities": [
-					{
-						"name": "Wait1",
-						"type": "Wait",
-						"dependsOn": [],
-						"userProperties": [],
-						"typeProperties": {
-							"waitTimeInSeconds": 1
-						}
-					}
-				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
-				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:18Z"
+				"lastPublishTime": "2022-02-02T11:42:58Z"
 			},
 			"dependsOn": []
 		}
