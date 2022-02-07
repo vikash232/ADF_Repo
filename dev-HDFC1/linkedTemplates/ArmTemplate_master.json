@@ -498,6 +498,26 @@
 			"dependsOn": [
 				"[resourceId('Microsoft.Resources/deployments', 'dev-HDFC1_ArmTemplate_21')]"
 			]
+		},
+		{
+			"name": "dev-HDFC1_ArmTemplate_23",
+			"type": "Microsoft.Resources/deployments",
+			"apiVersion": "2018-02-01",
+			"properties": {
+				"mode": "incremental",
+				"templateLink": {
+					"uri": "[concat(parameters('containerUri'), '/ArmTemplate_23.json', parameters('containerSasToken'))]",
+					"contentVersion": "1.0.0.0"
+				},
+				"parameters": {
+					"factoryName": {
+						"value": "[parameters('factoryName')]"
+					}
+				}
+			},
+			"dependsOn": [
+				"[resourceId('Microsoft.Resources/deployments', 'dev-HDFC1_ArmTemplate_22')]"
+			]
 		}
 	]
 }
