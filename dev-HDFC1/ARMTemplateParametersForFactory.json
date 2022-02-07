@@ -5,10 +5,10 @@
 		"factoryName": {
 			"value": "dev-HDFC1"
 		},
-		"AzureDatabricks1_accessToken": {
+		"AzureBlobStorage1_connectionString": {
 			"value": ""
 		},
-		"AzureBlobStorage1_connectionString": {
+		"AzureDatabricks1_accessToken": {
 			"value": ""
 		},
 		"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
