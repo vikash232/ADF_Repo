@@ -1,0 +1,74 @@
+{
+	"name": "Json1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "ArmTemplateParameters_master.json",
+				"container": "hdfcblob"
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"$schema": {
+					"type": "string"
+				},
+				"contentVersion": {
+					"type": "string"
+				},
+				"parameters": {
+					"type": "object",
+					"properties": {
+						"factoryName": {
+							"type": "object",
+							"properties": {
+								"value": {
+									"type": "string"
+								}
+							}
+						},
+						"AzureDatabricks1_accessToken": {
+							"type": "object",
+							"properties": {
+								"value": {
+									"type": "string"
+								}
+							}
+						},
+						"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
+							"type": "object",
+							"properties": {
+								"value": {
+									"type": "string"
+								}
+							}
+						},
+						"containerUri": {
+							"type": "object",
+							"properties": {
+								"value": {
+									"type": "string"
+								}
+							}
+						},
+						"containerSasToken": {
+							"type": "object",
+							"properties": {
+								"value": {
+									"type": "string"
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
