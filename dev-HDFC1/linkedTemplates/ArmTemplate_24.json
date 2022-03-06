@@ -13,7 +13,7 @@
 	},
 	"resources": [
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy67')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy20')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1369,12 +1369,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:24:16Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy68')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy21')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -2730,12 +2730,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:41Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy69')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy22')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -4091,12 +4091,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:41Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy70')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy23')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -5452,12 +5452,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:42Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy71')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy24')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -6813,12 +6813,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:48Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy72')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy25')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -8174,12 +8174,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:41Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy73')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy26')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -9535,12 +9535,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:42Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy74')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy27')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -10896,12 +10896,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:44Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy75')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy28')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -12257,12 +12257,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:41Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy76')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy29')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -13618,12 +13618,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:45Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy77')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy3')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -14979,12 +14979,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:12:53Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy78')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy30')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -16340,12 +16340,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:41Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy79')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy31')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -17701,12 +17701,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:25:41Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy80')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy32')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -19062,12 +19062,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:26:37Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy81')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy33')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -20423,12 +20423,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:26:37Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy82')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy34')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -21784,12 +21784,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:26:37Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy83')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy35')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -23145,12 +23145,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:26:37Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy84')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy36')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -24506,12 +24506,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:26:37Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy85')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy37')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -25867,12 +25867,12 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:26:37Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipeline24_copy86')]",
+			"name": "[concat(parameters('factoryName'), '/pipeline24_copy38')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -27228,7 +27228,7 @@
 					"cancelAfter": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2022-01-27T06:21:19Z"
+				"lastPublishTime": "2022-02-07T11:26:37Z"
 			},
 			"dependsOn": []
 		}
